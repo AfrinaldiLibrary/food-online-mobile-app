@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "103408434826",
+    "firebase_url": "https://food-online-2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "food-online-2",
+    "storage_bucket": "food-online-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103408434826:android:422efd2da16e822b19b773",
+        "android_client_info": {
+          "package_name": "com.room.foodonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103408434826-aci5ogthklp5rtaaap7pmh88anue4o98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-nn07k9qodMFiNxpD-9DhrNnbq-5_i0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103408434826-aci5ogthklp5rtaaap7pmh88anue4o98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
